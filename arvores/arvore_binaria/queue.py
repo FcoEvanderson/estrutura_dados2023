@@ -1,4 +1,4 @@
-from node import Node
+from arvores.arvore_binaria.node import Node
 
 
 class Queue:

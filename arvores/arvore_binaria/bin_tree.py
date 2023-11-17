@@ -36,4 +36,3 @@ class _BinTreeNode:
             if node.right is not None:
                 q.enqueue(node.right)
 
-    
